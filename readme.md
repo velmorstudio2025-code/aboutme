@@ -121,13 +121,13 @@ print(me.mission())
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
@@ -178,31 +178,7 @@ print(me.mission())
 
 ---
 
-# 🚀 Featured Projects
 
-## 🌾 AI Crop Advisor
-
-Machine learning-based crop recommendation and advisory system for farmers.
-
----
-
-## 📈 Market Price Prediction
-
-Predictive analytics platform for agricultural market forecasting.
-
----
-
-## 🤖 Multi-Agent Agriculture Assistant
-
-Autonomous AI farming assistant powered by intelligent agents.
-
----
-
-## 🔄 Skill Swap Platform
-
-Peer-to-peer skill exchange and collaborative learning platform.
-
----
 
 # 📊 GitHub Analytics
 
