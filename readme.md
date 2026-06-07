@@ -98,7 +98,7 @@ print(me.mission())
 ## 🤖 AI / ML
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,NumPy,Pandas,Matplotlib,Hugging Face,Transformers" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,NumPy,Pandas,Matplotlib,HuggingFace,Transformers" />
 </p>
 
 
