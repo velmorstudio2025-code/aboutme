@@ -1,241 +1,253 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:8b5cf6&text=KAVIARASU%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0ea5e9,50:6366f1,100:8b5cf6&text=KAVIARASU%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descSize=20&descAlignY=58&descColor=e0f2fe"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Hackathon+Winner;Open+Source+Contributor;Building+Scalable+Solutions"/>
+<br/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Hackathon+Winner+%F0%9F%8F%86;Open+Source+Contributor;Building+Scalable+Solutions"/>
 
-<a href="mailto:kaviarasu6380@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://linkedin.com/in/kaviarasu-k">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaviarasu6380@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaviarasu-k)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KAVIARASU-K)
 
-<a href="https://github.com/KAVIARASU-K">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=KAVIARASU-K&style=for-the-badge&color=blue"/>
+![Profile Views](https://komarev.com/ghpvc/?username=KAVIARASU-K&style=for-the-badge&color=0ea5e9&label=Profile+Views)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```python
 class Kaviarasu:
 
     def __init__(self):
-        self.name = "Kaviarasu K"
-        self.role = "Full Stack Developer & AI Engineer"
-        self.location = "India 🇮🇳"
-        self.education = "B.Tech Computer Science"
-        self.code_since = "2022"
+        self.name        = "Kaviarasu K"
+        self.role        = "Full Stack Developer & AI Engineer"
+        self.location    = "India 🇮🇳"
+        self.education   = "B.Tech Computer Science"
+        self.coding_since = "2022"
 
     def mission(self):
         return "Building intelligent products that solve real-world problems."
 
     def current_focus(self):
         return [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Full Stack Development",
-            "Automation Systems",
-            "Open Source"
+            "🤖 Artificial Intelligence & LLMs",
+            "🌾 Smart Agriculture Solutions",
+            "🌐 Full Stack Development",
+            "☁️  Cloud & DevOps",
+            "🏆 Hackathons & Open Source",
+            "🎬 Motion Graphics & Video Editing",
         ]
 
 me = Kaviarasu()
 print(me.mission())
 ```
 
+---
 
+## 🚀 Current Focus
 
-# 🚀 Current Focus
+<div align="center">
 
-- 🤖 AI Agents & LLM Applications
-- 🌾 Smart Agriculture Solutions
-- 🌐 Full Stack Development
-- ☁️ Cloud & DevOps
-- 🏆 Hackathons & Open Source
-- 🎬 Motion Graphics & Video Editing
+| Area | Focus |
+|------|-------|
+| 🤖 AI / ML | Agents, LLMs, RAG Systems |
+| 🌾 AgriTech | Smart Agriculture Solutions |
+| 🌐 Web Dev | Full Stack Applications |
+| ☁️ Cloud | DevOps & CI/CD Pipelines |
+| 🏆 Compete | Hackathons & Open Source |
+| 🎬 Creative | Motion Graphics & Editing |
+
+</div>
 
 ---
 
----
+## ⚡ Tech Stack
 
-# ⚡ Tech Stack
+<br/>
 
-<br>
-
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
-<br>
+<br/>
 
-## 🌐 Frontend Development
+### 🌐 Frontend Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
-<br>
+<br/>
 
-## ⚙️ Backend Development
+### ⚙️ Backend Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs" />
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
-<br>
+<br/>
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
-<br>
+<br/>
 
-## 🤖 AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge"/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
-<br>
+<br/>
 
-## 🎨 Creative Tools
+### 🎨 Creative Tools
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
 </div>
 
-<br>
+<br/>
 
-## 🛠 Tools & Platforms
+### 🛠️ Tools & Platforms
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
-<br>
-
 
 ---
 
-# 🏆 Achievements
-
-🥇 Multiple Hackathon Winner
-
-🥇 AI & Machine Learning Project Developer
-
-🥇 Data Annotation Specialist
-
-🥇 Freelance Video Editor
-
-🥇 Open Source Contributor
-
----
-
-
-
-# 📊 GitHub Analytics
+## 🏆 Achievements
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAVIARASU-K&show_icons=true&theme=tokyonight&hide_border=true"/>
+| 🥇 | Achievement |
+|----|-------------|
+| 🏆 | Multiple Hackathon Winner |
+| 🤖 | AI & Machine Learning Project Developer |
+| 🏷️ | Data Annotation Specialist |
+| 🎬 | Freelance Video Editor |
+| 🌍 | Open Source Contributor |
 
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAVIARASU-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+&nbsp;&nbsp;
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KAVIARASU-K&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVIARASU-K&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVIARASU-K&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KAVIARASU-K&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KAVIARASU-K&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KAVIARASU-K&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KAVIARASU-K&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
+
+</div>
+
+---
+
+## 📚 Currently Learning
 
 ```yaml
 Learning:
-  - Advanced AI Agents
-  - Large Language Models (LLMs)
-  - Cloud Computing
-  - Docker & DevOps
-  - System Design
+  AI & ML:
+    - Advanced AI Agents
+    - Large Language Models (LLMs)
+    - Retrieval-Augmented Generation (RAG)
+
+  Infrastructure:
+    - Cloud Computing (AWS / GCP)
+    - Docker & DevOps
+    - CI/CD Pipelines
+
+  Engineering:
+    - System Design
+    - Scalable Architectures
 ```
 
 ---
 
-# 💡 Developer Philosophy
+## 💡 Developer Philosophy
 
 ```javascript
-while(alive){
+const kaviarasu = {
+    mindset: "Growth",
+    approach: "Learn → Build → Ship → Repeat",
+};
+
+while (alive) {
     eat();
+    sleep();
     code();
     learn();
     build();
@@ -245,25 +257,17 @@ while(alive){
 
 ---
 
-# 🎯 Goals For 2026
-
-✔ Build Production-Ready AI Products
-
-✔ Contribute More To Open Source
-
-✔ Master System Design
-
-✔ Become Cloud Certified
-
-✔ Launch Innovative Startups
-
----
-
-# 📈 Profile Views
+## 🎯 Goals For 2026
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KAVIARASU-K&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+| Status | Goal |
+|--------|------|
+| ✅ | Build Production-Ready AI Products |
+| ✅ | Contribute More To Open Source |
+| ✅ | Master System Design |
+| ✅ | Become Cloud Certified |
+| ✅ | Launch Innovative Startups |
 
 </div>
 
@@ -271,12 +275,16 @@ while(alive){
 
 <div align="center">
 
-# 💭 Quote
+## 💭 Quote of Life
 
-### "Building Tomorrow's Solutions, Today."
+### *"Building Tomorrow's Solutions, Today."*
 
-⭐ If you like my work, consider starring my repositories.
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:8b5cf6"/>
+> ⭐ If you find my work helpful, consider **starring** my repositories — it means a lot!
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0ea5e9,50:6366f1,100:8b5cf6"/>
 
 </div>
