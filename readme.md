@@ -54,7 +54,7 @@ me = Kaviarasu()
 print(me.mission())
 ```
 
----
+
 
 # 🚀 Current Focus
 
@@ -67,60 +67,53 @@ print(me.mission())
 
 ---
 
+---
+
 # ⚡ Tech Stack
+
+<br>
 
 ## 💻 Programming Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
 
 </div>
 
----
+<br>
 
 ## 🌐 Frontend Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 
 </div>
 
----
+<br>
 
-## 
+## ⚙️ Backend Development
 
 <div align="center">
-⚙️ Backend Development
-    <br>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs" />
 
 </div>
 
----
+<br>
 
 ## 🗄️ Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 </div>
 
----
+<br>
 
-## 🛠 Tools & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux"/>
-
-</div>
-
----
-
-# 🤖 AI / Machine Learning
+## 🤖 AI & Machine Learning
 
 <div align="center">
 
@@ -128,11 +121,13 @@ print(me.mission())
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
+<br><br>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<br><br>
 
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
@@ -140,9 +135,9 @@ print(me.mission())
 
 </div>
 
----
+<br>
 
-# 🎨 Creative Tools
+## 🎨 Creative Tools
 
 <div align="center">
 
@@ -153,6 +148,19 @@ print(me.mission())
 <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 
 </div>
+
+<br>
+
+## 🛠 Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+
+</div>
+
+<br>
+
 
 ---
 
