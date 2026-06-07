@@ -98,28 +98,21 @@ print(me.mission())
 ## 🤖 AI / ML
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,NumPy,Pandas,Matplotlib,Hugging Face,Transformers" />
 </p>
 
-<div align="center">
 
-NumPy • Pandas • Matplotlib • Hugging Face • Transformers • Roboflow
-
-</div>
 
 ## 🛠 Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,Roboflow" />
 </p>
 
 ## 🎨 Creative Tools
-
-<div align="center">
-
-Adobe After Effects • Adobe Premiere Pro • Figma
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=Adobe After Effects,Adobe Premiere Pro,Figma" />
+</p>
 
 ---
 
