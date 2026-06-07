@@ -9,10 +9,13 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaviarasu6380@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaviarasu-k)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KAVIARASU-K)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaviarasu-k-a8a253330/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/602528186265370634)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaviarasu8691?igsh=MXJ5NjZjN3I2dnJxZQ==)
 
+<br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=KAVIARASU-K&style=for-the-badge&color=0ea5e9&label=Profile+Views)
 
 </div>
 
