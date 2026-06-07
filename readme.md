@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0ea5e9,50:6366f1,100:8b5cf6&text=KAVIARASU%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descSize=20&descAlignY=58&descColor=e0f2fe"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:8b5cf6&text=KAVIARASU%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br/>
 
@@ -35,36 +35,9 @@ class Kaviarasu:
     def mission(self):
         return "Building intelligent products that solve real-world problems."
 
-    def current_focus(self):
-        return [
-            "🤖 Artificial Intelligence & LLMs",
-            "🌾 Smart Agriculture Solutions",
-            "🌐 Full Stack Development",
-            "☁️  Cloud & DevOps",
-            "🏆 Hackathons & Open Source",
-            "🎬 Motion Graphics & Video Editing",
-        ]
-
 me = Kaviarasu()
 print(me.mission())
 ```
-
----
-
-## 🚀 Current Focus
-
-<div align="center">
-
-| Area | Focus |
-|------|-------|
-| 🤖 AI / ML | Agents, LLMs, RAG Systems |
-| 🌾 AgriTech | Smart Agriculture Solutions |
-| 🌐 Web Dev | Full Stack Applications |
-| ☁️ Cloud | DevOps & CI/CD Pipelines |
-| 🏆 Compete | Hackathons & Open Source |
-| 🎬 Creative | Motion Graphics & Editing |
-
-</div>
 
 ---
 
