@@ -1,109 +1,174 @@
-<h1 align="center">Hi 👋, I'm Kaviarasu K</h1>
-<h3 align="center">AI Enthusiast | Full-Stack Developer | Problem Solver</h3>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=KAVIARASU+K;AI+%26+ML+Enthusiast;Innovator+%7C+Problem+Solver;Full-Stack+Developer" alt="Typing SVG" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Kaviarasu%20K&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%" />
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=kaviarasuzedx&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/kaviarasuzedx?label=FOLLOWERS&style=for-the-badge&color=0891b2" />
+    <img src="https://img.shields.io/github/stars/kaviarasuzedx?label=STARS&style=for-the-badge&color=yellow" />
+  </p>
+  
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaviarasuzedx&label=Profile%20Views&color=0e75b6&style=flat" alt="kaviarasuzedx" />
+---
+
+## 🌟 **Who Am I?**
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 <b>B.Tech CSE</b> @ Manakula Vinayagar Institute of Technology (CGPA: 7.9)</li>
+        <li>⚡ <b>Polytechnic Graduate</b> - 88% | Sri Manakula Vinayagar Polytechnic College</li>
+        <li>🚀 <b>AI/ML Enthusiast</b> building real-world solutions</li>
+        <li>💡 <b>Hackathon Champion</b> - 4+ awards & Flipkart Grid Semi-Finalist</li>
+        <li>🎨 <b>Creative Technologist</b> - Design + Code + Innovation</li>
+        <li>📍 Based in <b>Puducherry, India</b></li>
+      </ul>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 **Tech Arsenal**
+
+<div align="center">
+
+### 💻 **Languages**
+<img src="https://skillicons.dev/icons?i=python,javascript" />
+
+### 🌐 **Frontend & Styling**
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### 🛠️ **Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=git,github,figma,fastapi" />
+
+### 🎯 **Specialized Skills**
+<p>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
----
-
-## 🚀 About Me
-
-I'm a **B.Tech Computer Science student** passionate about leveraging **Artificial Intelligence** and **Machine Learning** to solve real-world challenges. Currently in my 3rd year at Manakula Vinayagar Institute of Technology, I thrive at the intersection of creativity and technology.
-
-- 🎯 **Objective:** Drive impactful projects through innovation and problem-solving
-- 🌱 **Currently exploring:** Advanced Computer Vision & NLP techniques
-- 🤝 **Open to collaborate on:** AI/ML projects, Hackathons, and Open Source
-- 📫 **Reach me at:** kaviarasu6380@gmail.com
-- 📄 **Portfolio:** [kaviarasu-k](https://linkedin.com/in/kaviarasu-k)
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Web Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
----
-
-## 📌 Featured Projects
-
-### 🛒 E-Commerce Optimization Using AI
-> *AI-powered system for real-time product detection and freshness validation*
-
-- Integrated **YOLO**, **OCR**, and thermal algorithms for retail automation
-- Real-time product detection and freshness monitoring
-- **Role:** Data Annotation Specialist
-
-### 👥 AI-Powered Data Extraction & Analysis
-> *Real-Time Crowd Estimation & Product Attribute Extraction System*
-
-- Built **FastAPI**-based frontend and backend integration
-- Implemented **YOLOv11** & **CSRNet** for crowd estimation
-- Developed NLP-powered Product Attribute Extraction Tool for e-commerce
-- **Role:** Data Annotation Specialist
-
----
-
-## 🏆 Achievements
-
-- 🥇 **First Prize** - CodeIQ Hackathon (Track-1), ICFAI Tirupura 2024
-- 🥈 **Second Prize** - CodeIQ Hackathon (Track-2), ICFAI Tirupura 2024
-- 🥇 **First Prize** - "Crypt Ur Mind" Technical Competition, Mailam Engineering College
-- 🎯 **Semi-Finalist** - Flipkart Grid with *Real-Time Deep Learning System for Product Detection and Freshness Monitoring*
-
----
-
-## 📜 Certifications
-
-- 📊 **Data Science** - IBM SkillsBuild
-- 🍃 **MongoDB Certification** - MongoDB University
-- 🎨 **UI/UX Design** - Vel Technology
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaviarasuzedx&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviarasuzedx&theme=radical" alt="GitHub Streak" width="48%" />
+### 🧠 **Soft Skills**
+<p>
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Critical%20Thinking-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Creativity-FFE66D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collaboration-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-32CD32?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviarasuzedx&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🚀 **Flagship Projects**
 
-<p align="center">
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/🛒%20E--Commerce%20Optimization%20Using%20AI-FF6B6B?style=for-the-badge" />
+      <br/><br/>
+      <b>AI-powered product detection & freshness validation</b>
+      <br/><br/>
+      <code>YOLO</code> <code>OCR</code> <code>Thermal Algorithms</code>
+      <br/><br/>
+      <i>Real-time retail automation system</i>
+      <br/><br/>
+      <b>🎯 Role:</b> Data Annotation Specialist
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/👥%20AI%20Data%20Extraction%20%26%20Analysis-4ECDC4?style=for-the-badge" />
+      <br/><br/>
+      <b>Crowd Estimation & Product Attribute Extraction</b>
+      <br/><br/>
+      <code>FastAPI</code> <code>YOLOv11</code> <code>CSRNet</code> <code>NLP</code>
+      <br/><br/>
+      <i>Real-time intelligence for e-commerce</i>
+      <br/><br/>
+      <b>🎯 Role:</b> Data Annotation Specialist
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏅 **Trophies & Triumphs**
+
+<div align="center">
+  
+| 🎖️ Achievement | 🏆 Event | 📍 Location |
+|:---:|:---:|:---:|
+| 🥇 **First Prize** | CodeIQ Hackathon (Track-1) | ICFAI, Tirupura 2024 |
+| 🥈 **Second Prize** | CodeIQ Hackathon (Track-2) | ICFAI, Tirupura 2024 |
+| 🥇 **First Prize** | Crypt Ur Mind Competition | Mailam Engineering College |
+| 🎯 **Semi-Finalist** | Flipkart Grid | National Level |
+
+</div>
+
+---
+
+## 📜 **Certifications Spotlight**
+
+<div align="center">
+  
+| Certification | Issuer |
+|:---:|:---:|
+| 📊 **Data Science** | IBM SkillsBuild |
+| 🍃 **MongoDB Certification** | MongoDB University |
+| 🎨 **UI/UX Design** | Vel Technology |
+
+</div>
+
+---
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaviarasuzedx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?username=kaviarasuzedx&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviarasuzedx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=kaviarasuzedx&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 🌐 **Let's Connect**
+
+<div align="center">
+  
   <a href="mailto:kaviarasu6380@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="https://linkedin.com/in/kaviarasu-k">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="https://github.com/Kaviarasuzedx">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
-</p>
+  
+</div>
 
-<p align="center">
-  <i>"Leveraging technology to solve real-world challenges, one commit at a time."</i>
-</p>
+---
+
+<div align="center">
+  
+  ### 💬 *"Innovating at the intersection of AI, creativity, and real-world impact"*
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+  
+</div>
